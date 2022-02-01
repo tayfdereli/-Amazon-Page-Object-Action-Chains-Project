@@ -26,6 +26,7 @@
 # Nasıl Çalışır ? 
 
 > Utils/Locator/LoginPageLocator kısmından mail adresinizi ve parolanızı , kullanıcı girişi için değiştirmeniz gerekiyor.
+
 ![image](https://user-images.githubusercontent.com/93590132/151952359-19b1db3c-e7b0-4192-8bb7-b4b6b6b2a617.png)
 
 > Terminale "pytest" yazarak testi koşabiliriz.
